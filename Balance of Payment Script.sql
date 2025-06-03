@@ -1,6 +1,4 @@
-/* Balance of Payment Analysis for five (5) European Countries
-Created by Group 1, InternPulse
-December 9th, 2024*/
+/* Balance of Payment Analysis for five (5) European Countries*/
 
 -- Checking for Duplicates (Albania)
 SELECT [Year], COUNT(*) AS occurrences
